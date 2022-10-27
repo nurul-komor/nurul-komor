@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nurulkomor52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HYhs8Xb0QKk1Y4707bZSDlv6QgypsUch/view?usp=sharing](https://drive.google.com/file/d/1HYhs8Xb0QKk1Y4707bZSDlv6QgypsUch/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KbMkpRaOyux-o4I4aapQ0PlV3di7jJZt/view?usp=drivesdk](https://drive.google.com/file/d/1HYhs8Xb0QKk1Y4707bZSDlv6QgypsUch/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
