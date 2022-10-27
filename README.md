@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nurul KOmor</h1>
+<h1 align="center">Hi 👋, I'm Nurul Komor</h1>
 <h3 align="center">A Full Stack Web Developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
