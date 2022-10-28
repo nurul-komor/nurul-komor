@@ -1,5 +1,5 @@
-<h3 align="center"> Hi there my gorgeous friends<img src="assets/hello.gif" width="28px" alt="hi"></h3>
-<h1 align="center">I'm a Full Stack Web Developer from Bangladesh <img src="assets/bangladesh.png" width="36"/></h1>
+<h1 align="center"> Hi there my gorgeous friends<img src="assets/hello.gif" width="28px" alt="hi"></h1>
+<h4 align="center">I'm a Full Stack Web Developer from Bangladesh <img src="assets/bangladesh.png" width="36"/></h4>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
