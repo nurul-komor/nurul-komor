@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **vue**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nurul-komor?tab=repositories](https://github.com/nurul-komor?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/nurul-komor?tab=repositories](https://github.com/nurul-komor?tab=repositories)
 
 - 💬 Ask me about **Laravel or PHP**
 
