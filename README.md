@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Electronics shop(E-commerce website )**
 
-- 🌱 I’m currently learning **vue**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/nurul-komor?tab=repositories](https://github.com/nurul-komor?tab=repositories)
 
