@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HYhs8Xb0QKk1Y4707bZSDlv6QgypsUch/view?usp=sharing](https://drive.google.com/file/d/1aQeAZu6vSEaiHmNdeVz3bxAXgOLP1z2I/view?usp=drivesdk)
 
----
-[![](https://visitcount.itsvg.in/api?id=nurul-komor&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurul.komor2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurul-komor) 
