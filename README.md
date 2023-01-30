@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **nurulkomor123@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1HYhs8Xb0QKk1Y4707bZSDlv6QgypsUch/view?usp=sharing](https://drive.google.com/file/d/1ehx7ioYgL9ZZOuziEhJxm1RYTZGKsmzz/view?usp=drivesdk)
-<embed src="assets/Resume.pdf" type="application/pdf"   height="700px" width="500"/>
+- 📄 Resume <img src="assets/Resume.png"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurul.komor2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurul-komor) 
