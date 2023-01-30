@@ -11,10 +11,10 @@
 
 - 💬 Ask me about **Laravel or PHP**
 
-- 📫 How to reach me **nurulkomor52@gmail.com**
+- 📫 How to reach me **nurulkomor123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HYhs8Xb0QKk1Y4707bZSDlv6QgypsUch/view?usp=sharing](https://drive.google.com/file/d/1ehx7ioYgL9ZZOuziEhJxm1RYTZGKsmzz/view?usp=drivesdk)
-<embed src="https://drive.google.com/file/d/1ehx7ioYgL9ZZOuziEhJxm1RYTZGKsmzz/view?usp=drivesdk" type="application/pdf"   height="700px" width="500">
+- 📄 Resume [https://drive.google.com/file/d/1HYhs8Xb0QKk1Y4707bZSDlv6QgypsUch/view?usp=sharing](https://drive.google.com/file/d/1ehx7ioYgL9ZZOuziEhJxm1RYTZGKsmzz/view?usp=drivesdk)
+<embed src="assets/Resume.pdf" type="application/pdf"   height="700px" width="500"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurul.komor2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurul-komor) 
