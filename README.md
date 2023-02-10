@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there my gorgeous friends<img src="assets/hello.gif" width="28px" alt="hi"></h1>
 <h4 align="center">I'm a Full Stack Web Developer from Bangladesh <img src="assets/bangladesh.png" width="18"/></h4>
-<img src="assets/COVER.png" width="100%;"/>
+<img src="assets/typing.gif" width="100%;"/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Electronics shop(E-commerce website )**
