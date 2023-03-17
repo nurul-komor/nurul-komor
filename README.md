@@ -5,7 +5,7 @@
 </div>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Electronics shop(E-commerce website )**
+- 🔭 I’m currently working on **Card Parking Prject**
 
 - 🌱 I’m currently learning **NextUI**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nurulkomor123@gmail.com**
 
-- 📄 Resume <img src="assets/Resume.png"/>
+<!-- - 📄 Resume <img src="assets/Resume.png"/> -->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurul.komor2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurul-komor) 
