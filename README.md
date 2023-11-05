@@ -5,9 +5,9 @@
 </div>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Car Parking Project**
+- 🔭 I’m currently working on **Laravel & NextJS starter kit with SOLID design principles**
 
-- 🌱 I’m currently learning **NextUI**
+- 🌱 I’m currently learning **DSA with JAVA**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/nurul-komor?tab=repositories](https://github.com/nurul-komor?tab=repositories)
 
