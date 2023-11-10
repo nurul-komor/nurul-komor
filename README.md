@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there my gorgeous friends<img src="assets/hello.gif" width="28px" alt="hi"></h1>
-<h4 align="center">I'm a Full Stack Web Developer from Bangladesh <img src="assets/bangladesh.png" width="18"/></h4>
+<h4 align="center">I'm a Full Stack Web Developer from Bangladesh </h4>
 <div style="display:flex; align-items:center;justify-content:center">
 <img  src="assets/typing.gif" width="100%;"/>
 </div>
