@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there my gorgeous friends<img src="assets/hello.gif" width="28px" alt="hi"></h1>
 <h4 align="center">I'm a Full Stack Web Developer from Bangladesh </h4>
 <div style="display:flex; align-items:center;justify-content:center">
-<img  src="assets/typing.gif" width="100%;"/>
+<img  src="https://media.giphy.com/media/3o6EhHf3xajwOQzi9y/giphy.gif" width="100%;"/>
 </div>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
