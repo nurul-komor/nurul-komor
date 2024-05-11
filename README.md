@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Laravel & NextJS starter kit with SOLID design principles**
 
-- 🌱 I’m currently learning **DSA with JAVA**
+- 🌱 I’m currently learning **Everything you know about coding**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/nurul-komor?tab=repositories](https://github.com/nurul-komor?tab=repositories)
 
