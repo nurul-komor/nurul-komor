@@ -60,10 +60,7 @@ My primary expertise is **Laravel, PHP, React, and Next.js**. I enjoy solving co
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurul-komor&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurul-komor&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nurul-komor&theme=tokyonight&hide_border=true" />
