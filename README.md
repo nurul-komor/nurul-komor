@@ -71,14 +71,3 @@ My primary expertise is **Laravel, PHP, React, and Next.js**. I enjoy solving co
 
 ---
 
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nurul-komor/nurul-komor/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<p align="center">
-  <i>Building meaningful software, solving real-world problems, and learning something new every day.</i>
-</p>
